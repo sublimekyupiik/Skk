@@ -133,7 +133,13 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   La collection « Les essentiels » est abandonnée : elle n'apparaît plus. Les drops d'artistes sont surtout offerts aux artistes ; s'il y en a à vendre, ils vont dans Souvenirs Sonores, ou dans une carte « Une star, un bijou » si j'en ai assez.
 - **juste sous le carrousel, une ligne de petits boutons par type de bijou** : colliers, boucles d'oreilles, bracelets, bracelets-bagues, ear cuffs, bijoux pour cheveux, bayas, bijoux pour téléphone. Pour celles qui savent déjà ce qu'elles cherchent.
 - la note des avis et l'actualité par-dessus la vidéo. La note des avis et l'actualité par-dessus. Comme je ne fais pas de Black Friday, ça peut devenir un message : « Pas de Black Friday ici. Chaque pièce n'existe qu'une fois. » ;
-- une comparaison en image coupée en deux : « Pas un bijou de plus. Une pièce qui n'existe qu'une fois. » Avec des coches SK (unique, seconde main, acier inoxydable, ajustable) face au bijou fantaisie classique (série, matières neuves, ternit, taille standard). On compare à une catégorie, jamais à une marque ;
+- **la section comparaison (validée)**, après les collections :
+  - petit titre « POURQUOI SK », titre **« Fabriqué en série, ou créé pour toi ? »** ;
+  - une photo coupée en deux : à gauche, 6 bijoux strictement identiques (sans marque visible) ; à droite, 6 pièces SK, toutes différentes ;
+  - deux cartes. Bijou SK (prune) : ✓ Créé une seule fois · ✓ Perles de seconde main, chinées · ✓ Acier inoxydable, ne noircit pas **[À CONFIRMER : tous les éléments métalliques sont-ils en acier inoxydable ? Sinon : « Chaînes en acier inoxydable »]** · ✓ S'ajuste à toi · ✓ Fait main en France. Bijou de série (beige) : ✗ Identique pour des milliers de personnes · ✗ Matières neuves · ✗ Peut ternir ou verdir la peau · ✗ Taille standard · ✗ Fabrication industrielle ;
+  - on compare à une catégorie, jamais à une marque ;
+  - lien « Voir comment elle est née → » vers la page des coulisses de fabrication ;
+  - sur mobile : la photo en haut, puis la carte prune, puis la carte beige.
 - une mise en avant façon coffret, avec les parures de Perles et Mirages et l'ear cuff marqué « offert » ;
 - **un quiz d'une minute** (« Quelle créature es-tu ? » ou « Qu'est-ce qui manque à ton style ? »). Il recommande un univers, pas une pièce précise, puis montre les pièces disponibles, et renvoie vers le sur mesure s'il n'en reste plus. Il récupère l'e-mail pour la newsletter ;
 - des avis vidéo, avec un lien vers la collection sous chaque vidéo ;
