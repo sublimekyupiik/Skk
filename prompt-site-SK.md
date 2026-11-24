@@ -170,7 +170,21 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 - **la section ateliers (validée)** : petit titre « ATELIERS », titre **« Crée ta pièce, avec moi. »**, sous-titre « Des perles de seconde main, tes mains, et 5 personnes maximum. » Une photo ou une courte vidéo d'atelier. Deux cartes : 1 h · 30 € (2 ear cuffs ou un bracelet) et 2 h · 50 € (un collier ou une baya). Les prochaines dates avec un bouton « Réserver » vers Weezevent ; sans date à venir : « Laisse ton e-mail pour connaître la prochaine date. » Un ou deux avis d'ateliers. Un lien « Offrir un atelier » (carte cadeau) et un lien « Organise un atelier privé → ». Un lien vers une **page « Ateliers » dédiée** qui reprend tout cela en détail (déroulé, ce qui est fourni, toutes les dates, avis, formulaire pour les ateliers privés).
 - **la dernière section, « Rejoins-nous » (validée)**, qui regroupe réseaux et newsletter. Sous-titre « Les coulisses, les nouvelles pièces et les créatures, en avant-première. » Deux cartes de profil côte à côte : Instagram **@sublimekyupiik** (3,2k abonnés, bouton « Suivre ») et TikTok **[À CONFIRMER : @ et nombre d'abonnés TikTok]**. Une grille de 6 publications **choisies à la main** (2 colonnes × 3 lignes sur mobile), en images légères dans le thème, chacune renvoyant vers sa publication ; je les change une fois par mois. En dessous, l'inscription au **Club des Perles** : « Rejoins le Club des Perles : accès VIP aux drops, une heure avant tout le monde. », un champ e-mail et un bouton « Je rejoins le club ». À corriger : la page des coulisses mentionne « @sublime.kyupiik », le bon @ est @sublimekyupiik.
 
-À ne pas reprendre : les réductions affichées partout, les grilles de produits répétées et leur rose pastel. Propose-moi un ordre de sections réaliste, sans que la page d'accueil soit trop longue.
+À ne pas reprendre : les réductions affichées partout, les grilles de produits répétées et leur rose pastel.
+
+**Ordre final de la page d'accueil (validé)**, qui suit le parcours de la cliente (elle comprend → elle choisit → elle est rassurée → elle adhère → elle nous rejoint) :
+
+1. Bandeau des offres
+2. Vidéo d'accueil + pastille « Déjà plus de 500 bijoux uniques adoptés »
+3. Nos collections + boutons par type
+4. Avant/après « Ta tenue était presque parfaite. »
+5. Parures « Une créature, une parure. », avec **le quiz intégré en bandeau compact** à la fin de la section (« Tu ne sais pas laquelle choisir ? Découvre quelle créature tu es → »), pas en section à part
+6. « ~~Vendues~~ Adoptées »
+7. « Fabriqué en série, ou créé pour toi ? »
+8. « Rien ne se perd, tout se sublime. » (reste sur l'accueil)
+9. « Tu te reconnais ? »
+10. Ateliers
+11. Rejoins-nous + Club des Perles
 
 **Fiche produit**, en version plus courte que la leur et adaptée aux pièces uniques :
 
