@@ -137,7 +137,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 - **la section comparaison (validée)**, après les collections :
   - petit titre « POURQUOI SK », titre **« Fabriqué en série, ou créé pour toi ? »** ;
   - une photo coupée en deux : à gauche, 6 bijoux strictement identiques (sans marque visible) ; à droite, 6 pièces SK, toutes différentes ;
-  - deux cartes. Bijou SK (prune) : ✓ Créé une seule fois · ✓ Perles de seconde main, chinées · ✓ Acier inoxydable, ne noircit pas **[À CONFIRMER : tous les éléments métalliques sont-ils en acier inoxydable ? Sinon : « Chaînes en acier inoxydable »]** · ✓ S'ajuste à toi · ✓ Fait main en France. Bijou de série (beige) : ✗ Identique pour des milliers de personnes · ✗ Matières neuves · ✗ Peut ternir ou verdir la peau · ✗ Taille standard · ✗ Fabrication industrielle ;
+  - deux cartes. Bijou SK (prune) : ✓ Créé une seule fois · ✓ Perles de seconde main, chinées · ✓ Chaînes et apprêts en acier inoxydable, ne noircissent pas · ✓ S'ajuste à toi · ✓ Fait main en France. Bijou de série (beige) : ✗ Identique pour des milliers de personnes · ✗ Matières neuves · ✗ Peut ternir ou verdir la peau · ✗ Taille standard · ✗ Fabrication industrielle ;
   - on compare à une catégorie, jamais à une marque ;
   - lien « Voir comment elle est née → » vers la page des coulisses de fabrication ;
   - sur mobile : la photo en haut, puis la carte prune, puis la carte beige.
@@ -164,7 +164,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   1. « Il manque un truc à ma tenue » : ta tenue est bien, mais pas tout à fait toi → la pièce finale, celle qui la rend impossible à copier → « Fais le quiz »
   2. « Je cherche un cadeau » : tu veux offrir quelque chose qui lui ressemble vraiment → une pièce unique, ou une carte cadeau pour choisir elle-même → « Offrir »
   3. « Rien n'est à ma taille » : les bijoux standards serrent ou flottent → chaînettes ajustables, bayas du XS au 5XL, sur mesure → « Voir les pièces ajustables »
-  4. « J'ai la peau sensible » : les bijoux fantaisie te marquent ou te verdissent la peau → chaînes en acier inoxydable → « Découvrir » **[À CONFIRMER : tous les éléments métalliques sont-ils en acier inoxydable ? Sinon, reformuler ou retirer cet onglet]**
+  4. « J'ai la peau sensible » : les bijoux fantaisie te marquent ou te verdissent la peau → chaînes et apprêts en acier inoxydable, qui ne noircissent pas et ne verdissent pas la peau → « Découvrir » (ne pas écrire « hypoallergénique », l'acier peut contenir un peu de nickel)
   5. « Je ne trouve pas ma pièce » : rien ne te parle vraiment → je crée la tienne, au même prix, réponse sous 48 h → « Créer ma pièce »
 - une section « Pourquoi l'upcycling ? » en 3 cartes à faire défiler. Je n'ai pas encore de chiffres fiables propres aux bijoux fantaisie : appuie-toi d'abord sur mes propres chiffres (bijoux adoptés, perles sauvées) et laisse une place pour 1 ou 2 chiffres sourcés (ADEME) que j'ajouterai moi-même.
 
@@ -174,7 +174,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 
 - une galerie avec la pièce portée, un gros plan sur les perles, une photo qui donne l'échelle et une vidéo de 5 secondes. Des pastilles « Pièce unique », « Faite main » et le nom de la collection ou de la créature ;
 - le nom, une promesse en deux lignes, le prix sans réduction, et une urgence vraie : « Une seule pièce. Quand elle part, elle ne revient pas. » ;
-- une grille de 6 coches : unique, seconde main, acier inoxydable, ajustable, fait main en France, ear cuff offert dès 80 € ;
+- une grille de 6 coches : unique, seconde main, chaînes et apprêts en acier inoxydable, ajustable, fait main en France, ear cuff offert dès 80 € ;
 - « Ce que tu reçois » : la pièce, l'écrin et le mot manuscrit ;
 - un calendrier de livraison (commandé, expédié, livré) avec mes vrais délais ;
 - des menus dépliants : les perles de cette pièce et leur provenance, taille et ajustement, entretien, livraison et retours ;
