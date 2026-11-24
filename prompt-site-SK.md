@@ -32,7 +32,7 @@ Voici ma marque : **Sublime KyupiiK** (SK). Je crée des bijoux upcyclés, faits
 - **Pour tous les corps** : marque inclusive. Une chaînette ajustable adapte chaque pièce à chaque morphologie, sans taille imposée.
 - **Des collections narratives** : Souvenirs Sonores (des pochettes d'albums traduites en bijoux), Bijoux Racines (9 origines, dont une édition Outre-mer), Histoires de Peaux, Perles et Mirages (41 bijoux, 9 créatures d'enfance, une parure par créature), Hors-série, et des drops d'artistes.
 - **Sur mesure** au même prix que la boutique, sans supplément. Réponse sous 48 h, fabrication en 4 à 6 jours ouvrés.
-- **Ateliers** de création de bijoux : 1 h pour 25 €, 2 h pour environ 40 €, 5 personnes maximum. Billetterie sur Weezevent.
+- **Ateliers** de création de bijoux : 1 h pour 30 € (2 ear cuffs ou un bracelet), 2 h pour 50 € (un collier ou une baya), 5 personnes maximum. Ateliers privés possibles (anniversaires, EVJF, entreprises, comités d'entreprise). Billetterie sur Weezevent.
 
 ## 4. Ma cliente
 
@@ -167,6 +167,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   4. « J'ai la peau sensible » : les bijoux fantaisie te marquent ou te verdissent la peau → chaînes et apprêts en acier inoxydable, qui ne noircissent pas et ne verdissent pas la peau → « Découvrir » (ne pas écrire « hypoallergénique », l'acier peut contenir un peu de nickel)
   5. « Je ne trouve pas ma pièce » : rien ne te parle vraiment → je crée la tienne, au même prix, réponse sous 48 h → « Créer ma pièce »
 - **la section « Pourquoi l'upcycling ? » (validée)** : petit titre « POURQUOI L'UPCYCLING ? », titre **« Rien ne se perd, tout se sublime. »** En fond, la vidéo « de la brocante au bijou fini » (à défaut, ma photo de perles triées par couleur). 3 cartes à faire défiler : « Des perles qui dormaient » (chinées en brocante, sur Vinted ou données : elles existent déjà, rien à extraire, rien à fabriquer) · « Cassées, nettoyées, triées » (chaque perle est lavée, puis rangée par couleur et par matière) · « Une seconde vie, une seule fois » (assemblées à la main en une pièce qui n'existera qu'une fois). Un bandeau de chiffres (confirmés) : **30 000+** perles sauvées · **500+** bijoux adoptés · **0** perle neuve · **100 %** fait main. Lien « Découvrir les coulisses → ». Pas de chiffres extérieurs non sourcés.
+- **la section ateliers (validée)** : petit titre « ATELIERS », titre **« Crée ta pièce, avec moi. »**, sous-titre « Des perles de seconde main, tes mains, et 5 personnes maximum. » Une photo ou une courte vidéo d'atelier. Deux cartes : 1 h · 30 € (2 ear cuffs ou un bracelet) et 2 h · 50 € (un collier ou une baya). Les prochaines dates avec un bouton « Réserver » vers Weezevent ; sans date à venir : « Laisse ton e-mail pour connaître la prochaine date. » Un ou deux avis d'ateliers. Un lien « Offrir un atelier » (carte cadeau) et un lien « Organise un atelier privé → ». Un lien vers une **page « Ateliers » dédiée** qui reprend tout cela en détail (déroulé, ce qui est fourni, toutes les dates, avis, formulaire pour les ateliers privés).
 
 À ne pas reprendre : les réductions affichées partout, les grilles de produits répétées et leur rose pastel. Propose-moi un ordre de sections réaliste, sans que la page d'accueil soit trop longue.
 
