@@ -50,7 +50,7 @@ Elle vit en ville, a des revenus stables et s'habille avec intention. Sa tenue e
 - **Écriture** : parler de la personne qui se reconnaît plutôt que de décrire le produit. Ne jamais pousser à se faire remarquer.
 - **Style visuel** : l'ornement, riche mais composé. Couleurs : violet prune #5C1F4A, or #C9A84C, fond rosé #F8F3F5. Titres en Georgia, texte en Calibri. Lumière chaude, matières visibles, gros plans sur les perles et les mains.
 - **Bouton d'achat** : « Adopte ta pièce unique ».
-- **Pas de Black Friday ni de réductions affichées**, par conviction. Ma seule offre est l'ear cuff offert.
+- **Pas de Black Friday ni de réductions affichées**, par conviction. Mes seules offres sont l'ear cuff offert et la livraison offerte.
 - **Concurrents** : Hey ma douce, Systemic Studio, Maison Clemy.
 
 ## 6. Le site actuel et le problème à résoudre
@@ -80,7 +80,9 @@ Le site sublime-kyupiik.com est sur Shopify. Il a aujourd'hui :
 
 ## 7. Offres
 
-- **Un ear cuff offert** à partir de **60 € ou 80 € d'achat (à décider)**. Il sert aussi de bundle, sans application supplémentaire. À 60 €, il pousse les acheteuses de bracelets et de boucles à prendre une deuxième pièce. À 80 €, il pousse celles qui prennent un collier à 75 € à ajouter une pièce. Donne-moi ton avis.
+- **Un ear cuff offert dès 80 € de commande** (validé). Il sert aussi de bundle, sans application supplémentaire.
+- **La livraison offerte dès 90 € de commande** (validé).
+- Les deux paliers sont proches : affiche dans le panier une barre de progression (« Plus que 12 € pour ton ear cuff offert », puis « Plus que 10 € pour la livraison offerte »).
 - **Une carte cadeau** (par exemple de 20 € à 100 €, sans date d'expiration), utilisable aussi pour un atelier ou un sur mesure. Elle doit être visible aux endroits clés de l'achat, avec un visuel prune et or.
 
 ## 8. Références
@@ -118,7 +120,8 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   >
   > Bouton : **« Trouve ta pépite »**
 - mes autres idées de vidéo, chacune à sa place : les images de collections à faire défiler juste sous la vidéo d'accueil (section « Nos collections », avec accès aux pièces) ; la même modèle dans la même pose, sans bijou puis avec différents bijoux et t-shirts, pour la section avant/après ; « de la brocante au bijou fini » pour « Pourquoi l'upcycling ? » ou Mon histoire ; une vidéo d'ambiance du quotidien pour les réseaux et les pubs ;
-- un bandeau défilant tout en haut, avec 2 ou 3 messages qui tournent (ear cuff offert, plus de 500 bijoux adoptés, carte cadeau en décembre) ;
+- **un bandeau défilant tout en haut, réservé aux offres** : « Ear cuff offert dès 80 € de commande » et « Livraison offerte dès 90 € ». (En décembre, la carte cadeau peut s'y ajouter.)
+- **un sticker rond ou une mini-bannière à part** : « Déjà plus de 500 bijoux uniques adoptés ». Par exemple une pastille ronde dans un coin de la vidéo d'accueil, réutilisée sur la page « Les Adoptées ».
 - la note des avis et l'actualité par-dessus la vidéo. La note des avis et l'actualité par-dessus. Comme je ne fais pas de Black Friday, ça peut devenir un message : « Pas de Black Friday ici. Chaque pièce n'existe qu'une fois. » ;
 - une comparaison en image coupée en deux : « Pas un bijou de plus. Une pièce qui n'existe qu'une fois. » Avec des coches SK (unique, seconde main, acier inoxydable, ajustable) face au bijou fantaisie classique (série, matières neuves, ternit, taille standard). On compare à une catégorie, jamais à une marque ;
 - une mise en avant façon coffret, avec les parures de Perles et Mirages et l'ear cuff marqué « offert » ;
@@ -134,7 +137,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 
 - une galerie avec la pièce portée, un gros plan sur les perles, une photo qui donne l'échelle et une vidéo de 5 secondes. Des pastilles « Pièce unique », « Faite main » et le nom de la collection ou de la créature ;
 - le nom, une promesse en deux lignes, le prix sans réduction, et une urgence vraie : « Une seule pièce. Quand elle part, elle ne revient pas. » ;
-- une grille de 6 coches : unique, seconde main, acier inoxydable, ajustable, fait main en France, ear cuff offert dès X € ;
+- une grille de 6 coches : unique, seconde main, acier inoxydable, ajustable, fait main en France, ear cuff offert dès 80 € ;
 - « Ce que tu reçois » : la pièce, l'écrin et le mot manuscrit ;
 - un calendrier de livraison (commandé, expédié, livré) avec mes vrais délais ;
 - des menus dépliants : les perles de cette pièce et leur provenance, taille et ajustement, entretien, livraison et retours ;
@@ -158,7 +161,7 @@ Leur page « Archives » s'appelle ~~Sold out~~ « Soul out » : un bijou ne s'�
 - **Une page « Les Adoptées »**, avec le même jeu de mots : ~~Vendue~~ **Adoptée**. Elle colle à mon bouton « Adopte ta pièce unique ».
 - **Chaque pièce adoptée a sa carte** : photo (portée par sa propriétaire si possible), nom de la pièce, collection, « adoptée par [prénom], [ville] », et son avis quand il existe. C'est aussi là que mes avis deviennent visibles et impactants : aujourd'hui, je n'en ai aucun de bien présenté.
 - **Où elle apparaît** : une page à part dans le menu ; un aperçu sur la page d'accueil, fusionné avec la section avis ; et chaque fiche produit vendue qui devient « Adoptée ♡ » et renvoie vers cette galerie.
-- **Une bannière** : « Plus de 500 bijoux uniques adoptés ».
+- **Un sticker ou une mini-bannière** : « Déjà plus de 500 bijoux uniques adoptés ».
 - Dis-moi comment collecter les photos et les avis des pièces déjà vendues (anciennes clientes, événements, messages reçus), toujours avec l'accord des personnes.
 
 ## 9. Règles de travail
