@@ -1,6 +1,6 @@
 # Prompt — Refonte du site Sublime KyupiiK
 
-> Version de travail · mise à jour le 24 nov. 2026
+> Version de travail · mise à jour le 24 nov. 2026 (v2)
 > Les éléments marqués **[À COMPLÉTER]** attendent une réponse avant l'envoi.
 
 ---
@@ -21,7 +21,8 @@ Voici ma marque : **Sublime KyupiiK** (SK). Je crée des bijoux upcyclés, faits
 - Bijoux pour cheveux (adaptés aux locks, tresses et cheveux naturels) : 50 €
 - Bayas (bijoux de hanches, ajustables du XS au 5XL) : 50 €
 - Colliers : de 75 € à 95 €, selon le temps passé, les matériaux et la complexité. Une pièce exceptionnelle monte à 125 €.
-- **[À COMPLÉTER]** Le collier simple à 50 € et le bijou de téléphone existent-ils encore ?
+- Bijoux pour téléphone : 25 € (il en reste quelques-uns).
+- Le collier simple à 50 € n'est vendu qu'en événement, pas sur le site.
 
 ## 3. Ce qui rend SK différente
 
@@ -29,7 +30,7 @@ Voici ma marque : **Sublime KyupiiK** (SK). Je crée des bijoux upcyclés, faits
 - **Une vraie éthique** : je chine moi-même les perles en brocante et sur Vinted. Je les casse, les nettoie et les trie par couleur. Chaque couleur est un choix artistique. Je les assemble ensuite sur de l'acier inoxydable neuf.
 - **Pour tous les corps** : marque inclusive. Une chaînette ajustable adapte chaque pièce à chaque morphologie, sans taille imposée.
 - **Des collections narratives** : Souvenirs Sonores (des pochettes d'albums traduites en bijoux), Bijoux Racines (9 origines, dont une édition Outre-mer), Histoires de Peaux, Perles et Mirages (41 bijoux, 9 créatures d'enfance, une parure par créature), Hors-série, et des drops d'artistes.
-- **Sur mesure** au même prix que la boutique, sans supplément. Réponse sous 48 h. **[À COMPLÉTER]** Délai de fabrication : 3 à 4 jours ou 4 à 6 jours ouvrés ?
+- **Sur mesure** au même prix que la boutique, sans supplément. Réponse sous 48 h, fabrication en 4 à 6 jours ouvrés.
 - **Ateliers** de création de bijoux : 1 h pour 25 €, 2 h pour environ 40 €, 5 personnes maximum. Billetterie sur Weezevent.
 
 ## 4. Ma cliente
@@ -40,7 +41,7 @@ Elle vit en ville, a des revenus stables et s'habille avec intention. Sa tenue e
 - **Comment elle achète** : au coup de cœur, quand elle se reconnaît dans la pièce. Souvent plusieurs pièces à la fois, pour elle et pour les femmes qu'elle aime. Parfois après des mois à suivre la marque.
 - **Sa posture** : elle ne cherche pas à « être vue ». Elle est elle-même, et ce sont les regards qui viennent à elle.
 - **Audience Instagram** : 87 % de femmes, surtout 25-34 ans, 85 % en France (dont un tiers à Paris), puis Belgique, Canada, La Réunion et Guadeloupe.
-- **[À COMPLÉTER]** Le site écrit-il au féminin (« chère perle ») ou au neutre ?
+- **Le site est neutre, jamais genré.** Les pièces sont plutôt féminines dans leur style, mais l'écriture s'adresse à tout le monde.
 
 ## 5. Ton et univers
 
@@ -73,11 +74,13 @@ Le site sublime-kyupiik.com est sur Shopify. Il a aujourd'hui :
 - mieux faire connaître le sur mesure ;
 - mettre en place le Club des Perles et l'accès VIP aux lancements par newsletter.
 
-**Outils** : Shopify, Shopify Email, Easify, Judge.me (à confirmer), Weezevent.
+**Les délais de livraison ne sont pas les mêmes partout** : la FAQ annonce 2 à 3 jours ouvrés (La Poste), les CGV 4 à 7 jours. Il faudra harmoniser.
+
+**Outils** : Shopify, Shopify Email, Easify, Weezevent. Pas encore d'application d'avis (Judge.me envisagé).
 
 ## 7. Offres
 
-- **Un ear cuff offert** à partir de **[À COMPLÉTER : X €]** d'achat (recommandation : 60 €). Il sert aussi de bundle, sans application supplémentaire.
+- **Un ear cuff offert** à partir de **60 € ou 80 € d'achat (à décider)**. Il sert aussi de bundle, sans application supplémentaire. À 60 €, il pousse les acheteuses de bracelets et de boucles à prendre une deuxième pièce. À 80 €, il pousse celles qui prennent un collier à 75 € à ajouter une pièce. Donne-moi ton avis.
 - **Une carte cadeau** (par exemple de 20 € à 100 €, sans date d'expiration), utilisable aussi pour un atelier ou un sur mesure. Elle doit être visible aux endroits clés de l'achat, avec un visuel prune et or.
 
 ## 8. Références
@@ -116,7 +119,7 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 - des avis vidéo, avec un lien vers la collection sous chaque vidéo ;
 - un avant/après de tenue (« Ta tenue → la pièce → toi ») ;
 - des onglets « Tu as tout essayé ? » qui reprennent les douleurs de ma cliente (« Ma tenue fait fade », « Tout le monde a les mêmes bijoux », « Je veux consommer éthique », « Rien ne s'adapte à moi », « Je cherche un cadeau »). Chaque onglet donne la cause, la réponse SK et un lien ;
-- une section « Pourquoi l'upcycling ? » en 3 cartes à faire défiler, avec des chiffres sourcés **[À COMPLÉTER]**.
+- une section « Pourquoi l'upcycling ? » en 3 cartes à faire défiler. Je n'ai pas encore de chiffres fiables propres aux bijoux fantaisie : appuie-toi d'abord sur mes propres chiffres (bijoux adoptés, perles sauvées) et laisse une place pour 1 ou 2 chiffres sourcés (ADEME) que j'ajouterai moi-même.
 
 À ne pas reprendre : les réductions affichées partout, les grilles de produits répétées et leur rose pastel. Propose-moi un ordre de sections réaliste, sans que la page d'accueil soit trop longue.
 
@@ -141,7 +144,15 @@ Pas de compte à rebours, pas de réductions barrées, pas de fausses limites de
 
 **Priorités si la fiche doit rester courte** : la galerie, le titre et le prix, les coches, la livraison, les menus dépliants, « Complète ta tenue », les avis, la barre fixe et la page « Adoptée » sont indispensables. L'histoire de la pièce et les perles sont ce qui distingue SK. Le reste est optionnel.
 
-### [À COMPLÉTER] Autres inspirations à venir
+### Kolaam (kolaam.com), une marque de bijoux en pièces uniques
+
+Leur page « Archives » s'appelle ~~Sold out~~ « Soul out » : un bijou ne s'épuise pas, il rejoint la personne à qui il était destiné. J'adore l'idée, mais leur page n'a aucune photo. Je veux mon équivalent, en montrant vraiment les pièces vendues :
+
+- **Une page « Les Adoptées »**, avec le même jeu de mots : ~~Vendue~~ **Adoptée**. Elle colle à mon bouton « Adopte ta pièce unique ».
+- **Chaque pièce adoptée a sa carte** : photo (portée par sa propriétaire si possible), nom de la pièce, collection, « adoptée par [prénom], [ville] », et son avis quand il existe. C'est aussi là que mes avis deviennent visibles et impactants : aujourd'hui, je n'en ai aucun de bien présenté.
+- **Où elle apparaît** : une page à part dans le menu ; un aperçu sur la page d'accueil, fusionné avec la section avis ; et chaque fiche produit vendue qui devient « Adoptée ♡ » et renvoie vers cette galerie.
+- **Une bannière** : « Plus de 500 bijoux uniques adoptés ».
+- Dis-moi comment collecter les photos et les avis des pièces déjà vendues (anciennes clientes, événements, messages reçus), toujours avec l'accord des personnes.
 
 ## 9. Règles de travail
 
