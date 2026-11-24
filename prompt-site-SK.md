@@ -21,7 +21,7 @@ Voici ma marque : **Sublime KyupiiK** (SK). Je crée des bijoux upcyclés, faits
 - Bijoux pour cheveux (adaptés aux locks, tresses et cheveux naturels) : 50 €
 - Bayas (bijoux de hanches, ajustables du XS au 5XL) : 50 €
 - Bracelets-bagues : 40 €
-- Colliers : de 75 € à 95 €, selon le temps passé, les matériaux et la complexité. Les pièces exceptionnelles vont au-delà (jusqu'à 170 € pour le collier Vampire de Perles et Mirages).
+- Colliers : de 75 € à 95 €, selon le temps passé, les matériaux et la complexité. Les pièces exceptionnelles vont au-delà (170 € pour le collier Vampire de Perles et Mirages, qui est en fait deux colliers vendus ensemble).
 - Bijoux pour téléphone : 25 € (il en reste quelques-uns).
 - Le collier simple à 50 € n'est vendu qu'en événement, pas sur le site.
 
