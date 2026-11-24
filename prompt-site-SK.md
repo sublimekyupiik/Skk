@@ -112,7 +112,14 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 
 **Page d'accueil**, à adapter :
 
-- une vidéo d'accueil courte qui montre la marque en quelques secondes. Idée : « De la brocante à toi » (chiner, casser, trier, assembler, porter). La note des avis et l'actualité par-dessus. Comme je ne fais pas de Black Friday, ça peut devenir un message : « Pas de Black Friday ici. Chaque pièce n'existe qu'une fois. » ;
+- **la vidéo d'accueil (validée)** : en boucle, sans son, 3 à 5 secondes. Ma main lâche une poignée de perles qui tombent, puis la même main se tend et attrape le bijou fini fait avec ces perles. Texte par-dessus (validé) :
+  > **Une pièce unique, comme une extension de toi.**
+  > Des bijoux porteurs d'histoires, en perles de seconde main.
+  >
+  > Bouton : **« Trouve ta pépite »**
+- mes autres idées de vidéo, chacune à sa place : les images de collections à faire défiler juste sous la vidéo d'accueil (section « Nos collections », avec accès aux pièces) ; la même modèle dans la même pose, sans bijou puis avec différents bijoux et t-shirts, pour la section avant/après ; « de la brocante au bijou fini » pour « Pourquoi l'upcycling ? » ou Mon histoire ; une vidéo d'ambiance du quotidien pour les réseaux et les pubs ;
+- un bandeau défilant tout en haut, avec 2 ou 3 messages qui tournent (ear cuff offert, plus de 500 bijoux adoptés, carte cadeau en décembre) ;
+- la note des avis et l'actualité par-dessus la vidéo. La note des avis et l'actualité par-dessus. Comme je ne fais pas de Black Friday, ça peut devenir un message : « Pas de Black Friday ici. Chaque pièce n'existe qu'une fois. » ;
 - une comparaison en image coupée en deux : « Pas un bijou de plus. Une pièce qui n'existe qu'une fois. » Avec des coches SK (unique, seconde main, acier inoxydable, ajustable) face au bijou fantaisie classique (série, matières neuves, ternit, taille standard). On compare à une catégorie, jamais à une marque ;
 - une mise en avant façon coffret, avec les parures de Perles et Mirages et l'ear cuff marqué « offert » ;
 - **un quiz d'une minute** (« Quelle créature es-tu ? » ou « Qu'est-ce qui manque à ton style ? »). Il recommande un univers, pas une pièce précise, puis montre les pièces disponibles, et renvoie vers le sur mesure s'il n'en reste plus. Il récupère l'e-mail pour la newsletter ;
