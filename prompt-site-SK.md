@@ -122,6 +122,16 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
 - mes autres idées de vidéo, chacune à sa place : les images de collections à faire défiler juste sous la vidéo d'accueil (section « Nos collections », avec accès aux pièces) ; la même modèle dans la même pose, sans bijou puis avec différents bijoux et t-shirts, pour la section avant/après ; « de la brocante au bijou fini » pour « Pourquoi l'upcycling ? » ou Mon histoire ; une vidéo d'ambiance du quotidien pour les réseaux et les pubs ;
 - **un bandeau défilant tout en haut, réservé aux offres** : « Ear cuff offert dès 80 € de commande » et « Livraison offerte dès 90 € ». (En décembre, la carte cadeau peut s'y ajouter.)
 - **un sticker rond ou une mini-bannière à part** : « Déjà plus de 500 bijoux uniques adoptés ». Par exemple une pastille ronde dans un coin de la vidéo d'accueil, réutilisée sur la page « Les Adoptées ».
+- **la section « Nos collections » (validée), juste sous la vidéo** : un carrousel de grandes cartes verticales. Sur mobile, chaque carte prend environ 80 % de l'écran et on voit le bord de la suivante, avec des points en dessous. Chaque carte : une photo d'une pièce portée en plein cadre, le nom de la collection, sa phrase, une mention de rareté (« 34 pièces uniques », ou « Dernières pièces » quand il en reste peu) et un bouton « Découvrir ». Ordre et phrases validés :
+  1. **Perles et Mirages** : « Et si tu n'avais jamais arrêté de rêver ? »
+  2. **Bijoux Racines** : « Porter d'où l'on vient. »
+  3. **Souvenirs Sonores** : « Tes albums préférés, à porter. »
+  4. **Histoires de Peaux** : « Chaque détail de ta peau raconte ton histoire. »
+  5. **Hors-série** : « Nées hors des collections. Rares, même ici. »
+  6. **Sur mesure** (dernière carte) : « Aucune ne te ressemble encore ? Créons la tienne. »
+
+  La collection « Les essentiels » est abandonnée : elle n'apparaît plus. Les drops d'artistes sont surtout offerts aux artistes ; s'il y en a à vendre, ils vont dans Souvenirs Sonores, ou dans une carte « Une star, un bijou » si j'en ai assez.
+- **juste sous le carrousel, une ligne de petits boutons par type de bijou** : colliers, boucles d'oreilles, bracelets, bracelets-bagues, ear cuffs, bijoux pour cheveux, bayas, bijoux pour téléphone. Pour celles qui savent déjà ce qu'elles cherchent.
 - la note des avis et l'actualité par-dessus la vidéo. La note des avis et l'actualité par-dessus. Comme je ne fais pas de Black Friday, ça peut devenir un message : « Pas de Black Friday ici. Chaque pièce n'existe qu'une fois. » ;
 - une comparaison en image coupée en deux : « Pas un bijou de plus. Une pièce qui n'existe qu'une fois. » Avec des coches SK (unique, seconde main, acier inoxydable, ajustable) face au bijou fantaisie classique (série, matières neuves, ternit, taille standard). On compare à une catégorie, jamais à une marque ;
 - une mise en avant façon coffret, avec les parures de Perles et Mirages et l'ear cuff marqué « offert » ;
