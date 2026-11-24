@@ -149,7 +149,15 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   - une créature dont des pièces sont vendues affiche « Adoptée ♡ » sur ces pièces, montre celles qui restent et renvoie vers « Les Adoptées » ;
   - un lien : « Tu ne sais pas laquelle choisir ? Découvre quelle créature tu es → » vers le quiz ;
   - la section s'appelle « Les parures » dans le thème, pour resservir aux prochaines collections.
-- **un quiz d'une minute** (« Quelle créature es-tu ? » ou « Qu'est-ce qui manque à ton style ? »). Il recommande un univers, pas une pièce précise, puis montre les pièces disponibles, et renvoie vers le sur mesure s'il n'en reste plus. Il récupère l'e-mail pour la newsletter ;
+- **le quiz « Quelle créature es-tu ? » (validé)**, après les parures. Une carte « 1 minute · Quelle créature es-tu ? » avec un bouton « Faire le quiz ». Le lien sert aussi en bio et dans les TikTok. 4 questions, formulations neutres :
+  1. **Enfant, ce qui t'émerveillait, c'était…** la mer (Sirène) · la forêt (Elfe, Fée) · le ciel (Ange, Dragon) · la nuit (Vampire, Sorcière) · les étoiles (Alien, Licorne)
+  2. **On t'a souvent dit…** « Tu ressens trop les choses » (Sirène, Ange) · « Tu as la tête dans les nuages » (Licorne, Fée) · « Tu prends trop de place » (Dragon, Vampire) · « Tu n'es pas comme les autres » (Alien, Elfe) · « Tu n'en fais qu'à ta tête » (Sorcière)
+  3. **La couleur qui te ressemble** (pastilles de couleur, compte double) : jaune (Fée) · rouge bordeaux (Vampire) · noir (Sorcière) · vert (Elfe) · bleu (Sirène) · multicolore (Licorne) · blanc nacré (Ange) · ambre (Dragon) · lilas irisé (Alien) **[À CONFIRMER : les 3 dernières couleurs]**
+  4. **Le pouvoir que tu aurais voulu avoir** : voler (Fée, Ange, Dragon) · respirer sous l'eau (Sirène) · parler à la nature (Elfe) · jeter des sorts (Sorcière) · ne jamais vieillir (Vampire) · voyager vers d'autres mondes (Alien) · exaucer des vœux (Licorne)
+
+  En cas d'égalité, la couleur l'emporte.
+
+  **Le résultat** : « Tu es [créature]. », un texte court qui transforme la « blessure » de la question 2 en force (à partir des phrases des fiches produits, par exemple Sorcière : « celle qu'on apprend à craindre avant de comprendre sa vraie nature »), la parure portée avec ses pièces disponibles, l'ear cuff « OFFERT » et le bouton « Adopter la parure ». Si les pièces sont déjà adoptées : « Ta créature a déjà trouvé sa propriétaire… je peux t'en créer une » avec un lien vers le sur mesure. Un bouton « Partager mon résultat » crée une image pour les stories. Un champ e-mail **facultatif** sous le résultat : « Reçois ta créature et l'accès VIP aux prochains drops ». Le quiz peut être codé dans le thème, sans application. Plus tard, un quiz permanent « Qu'est-ce qui manque à ton style ? » pourra le remplacer.
 - des avis vidéo, avec un lien vers la collection sous chaque vidéo ;
 - un avant/après de tenue (« Ta tenue → la pièce → toi ») ;
 - des onglets « Tu as tout essayé ? » qui reprennent les douleurs de ma cliente (« Ma tenue fait fade », « Tout le monde a les mêmes bijoux », « Je veux consommer éthique », « Rien ne s'adapte à moi », « Je cherche un cadeau »). Chaque onglet donne la cause, la réponse SK et un lien ;
