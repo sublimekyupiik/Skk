@@ -20,7 +20,8 @@ Voici ma marque : **Sublime KyupiiK** (SK). Je crée des bijoux upcyclés, faits
 - Bracelets et boucles d'oreilles : 30 €
 - Bijoux pour cheveux (adaptés aux locks, tresses et cheveux naturels) : 50 €
 - Bayas (bijoux de hanches, ajustables du XS au 5XL) : 50 €
-- Colliers : de 75 € à 95 €, selon le temps passé, les matériaux et la complexité. Une pièce exceptionnelle monte à 125 €.
+- Bracelets-bagues : 40 €
+- Colliers : de 75 € à 95 €, selon le temps passé, les matériaux et la complexité. Les pièces exceptionnelles vont au-delà (jusqu'à 170 € pour le collier Vampire de Perles et Mirages).
 - Bijoux pour téléphone : 25 € (il en reste quelques-uns).
 - Le collier simple à 50 € n'est vendu qu'en événement, pas sur le site.
 
@@ -140,7 +141,14 @@ J'aime l'enchaînement des sections : chaque section répond à une question de 
   - on compare à une catégorie, jamais à une marque ;
   - lien « Voir comment elle est née → » vers la page des coulisses de fabrication ;
   - sur mobile : la photo en haut, puis la carte prune, puis la carte beige.
-- une mise en avant façon coffret, avec les parures de Perles et Mirages et l'ear cuff marqué « offert » ;
+- **la section parures (validée)**, après la comparaison :
+  - petit titre « PERLES ET MIRAGES », titre **« Une créature, une parure. »** ;
+  - une ligne de boutons avec les créatures (Fée, Sirène, Licorne, Ange, Elfe, Alien, Vampire, Sorcière, Dragon). Quand on en touche une : la photo de la parure portée, puis ses pièces en vignettes avec leur prix ;
+  - l'ear cuff de la créature est marqué « OFFERT » avec 10 € barré : c'est mon offre dès 80 €, que chaque parure dépasse ;
+  - deux boutons : **« Adopter la parure »**, qui ajoute toutes les pièces disponibles au panier en un clic (dans le thème, sans application), et « Choisir une seule pièce » ;
+  - une créature dont des pièces sont vendues affiche « Adoptée ♡ » sur ces pièces, montre celles qui restent et renvoie vers « Les Adoptées » ;
+  - un lien : « Tu ne sais pas laquelle choisir ? Découvre quelle créature tu es → » vers le quiz ;
+  - la section s'appelle « Les parures » dans le thème, pour resservir aux prochaines collections.
 - **un quiz d'une minute** (« Quelle créature es-tu ? » ou « Qu'est-ce qui manque à ton style ? »). Il recommande un univers, pas une pièce précise, puis montre les pièces disponibles, et renvoie vers le sur mesure s'il n'en reste plus. Il récupère l'e-mail pour la newsletter ;
 - des avis vidéo, avec un lien vers la collection sous chaque vidéo ;
 - un avant/après de tenue (« Ta tenue → la pièce → toi ») ;
