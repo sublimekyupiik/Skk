@@ -64,10 +64,11 @@ Le site sublime-kyupiik.com est sur Shopify. Il a aujourd'hui une page d'accueil
 
 **À corriger au passage** :
 
-- les délais de livraison ne sont pas les mêmes partout : la FAQ annonce 2 à 3 jours ouvrés (La Poste), les CGV 4 à 7 jours ;
+- **les délais de livraison** ne sont pas les mêmes partout (FAQ : 2 à 3 jours, CGV : 4 à 7 jours, fiches produit : Colissimo 1 à 3 jours et Mondial Relay 3 à 6 jours). La bonne version, à mettre partout : **expédition le jour même ou le lendemain si c'est un jour ouvré, par La Poste, livraison en 2 à 6 jours ouvrés** (délais classiques de La Poste) ;
+- les fiches produit actuelles : retirer le sélecteur de quantité, remplacer « Seulement 1 en stock » par « Pièce unique : une seule existe », passer tous les textes au tutoiement (entretien, livraison, « Vous aimeriez aussi »), masquer le bloc d'avis tant qu'il affiche « 0 avis », retirer le panier flottant qui cache le texte, revenir aux couleurs de la marque dans le bas de page ;
 - la page des coulisses mentionne « @sublime.kyupiik » : le bon @ est **@sublimekyupiik**.
 
-**Outils** : Shopify, Shopify Email, Easify (tour de cou et taille), Weezevent. Application d'avis à installer : Judge.me (version gratuite).
+**Outils** : Shopify, Shopify Email, Easify (tour de cou et taille), Weezevent. Application d'avis actuelle : EasyReviews (0 avis affiché pour l'instant) ; Judge.me envisagé à la place **[À DÉCIDER]**.
 
 ## 7. Offres (validées)
 
