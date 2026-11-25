@@ -1,7 +1,7 @@
 # Prompt — Refonte du site Sublime KyupiiK
 
 > Version de travail v3 · mise à jour le 24 nov. 2026
-> Les éléments marqués **[À CONFIRMER]** attendent encore une réponse.
+> Toutes les informations ont été confirmées.
 
 ---
 
@@ -165,7 +165,7 @@ Des onglets qui lèvent les objections concrètes. Un onglet ouvre une photo, un
 
 ### 11. Rejoins-nous
 - Titre **« Rejoins-nous. »**, sous-titre « Les coulisses, les nouvelles pièces et les créatures, en avant-première. »
-- Deux cartes de profil : Instagram **@sublimekyupiik** (3,2k abonnés, bouton « Suivre ») et TikTok **[À CONFIRMER : @ et nombre d'abonnés]**.
+- Deux cartes de profil : Instagram **@sublimekyupiik** (3,2k abonnés, bouton « Suivre ») et TikTok **@sublimekyupiik** (3 790 abonnés, bouton « Suivre »).
 - Une grille de 6 publications **choisies à la main** (2 colonnes × 3 lignes sur mobile), en images légères dans le thème, chacune renvoyant vers sa publication. Je les change une fois par mois.
 - L'inscription au **Club des Perles** : « Accès VIP aux drops, une heure avant tout le monde. », un champ e-mail et un bouton « Je rejoins le club ».
 
