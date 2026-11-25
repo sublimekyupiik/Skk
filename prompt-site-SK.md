@@ -52,7 +52,7 @@ Elle vit en ville, a des revenus stables et s'habille avec intention. Sa tenue e
 - **Personnalité** : solaire, sélective, singulière, chaleureuse. Elle marque les esprits sans en faire trop.
 - **Écriture** : parler de la personne qui se reconnaît plutôt que de décrire le produit. Ne jamais pousser à se faire remarquer.
 - **Vocabulaire** : une pièce vendue est « adoptée ». Bouton d'achat : « Adopte ta pièce unique ».
-- **Style visuel** : l'ornement, riche mais composé. Couleurs : violet prune #5C1F4A, or #C9A84C, fond rosé #F8F3F5. Titres en Georgia, texte en Calibri. Lumière chaude, matières visibles, gros plans sur les perles et les mains. Beaucoup d'espace, des coins arrondis.
+- **Style visuel** : l'ornement, riche mais composé. Couleurs : violet prune #5C1F4A, or #C9A84C, fond rosé #F8F3F5. Titres en Georgia, texte en Calibri. Des couleurs vives, des images lumineuses, des matières visibles, des gros plans sur les perles et les mains. Beaucoup d'espace, des coins arrondis.
 - **Pas de Black Friday, pas de réductions affichées, pas de compte à rebours, pas de fausses limites de quantité**, par conviction.
 - **Concurrents** : Hey ma douce, Systemic Studio, Maison Clemy.
 
@@ -198,7 +198,7 @@ Adaptée aux pièces uniques, plus courte que celle de Satinée :
 - une galerie avec la pièce portée, un gros plan sur les perles, une photo qui donne l'échelle et une vidéo de 5 secondes. Des pastilles « Pièce unique », « Faite main » et le nom de la collection ou de la créature ;
 - le nom, une promesse en deux lignes, le prix sans réduction, et une urgence vraie : « Une seule pièce. Quand elle part, elle ne revient pas. » ;
 - une grille de 6 coches : unique, seconde main, chaînes et apprêts en acier inoxydable, ajustable, fait main en France, ear cuff offert dès 80 € ;
-- « Ce que tu reçois » : la pièce, l'écrin et le mot manuscrit ;
+- « Ce que tu reçois » : la pièce dans son pochon, les stickers et le mot manuscrit ;
 - un calendrier de livraison (commandé, expédié, livré) avec mes vrais délais ;
 - des menus dépliants : les perles de cette pièce et leur provenance, taille et ajustement, entretien, livraison et retours ;
 - **l'histoire de la pièce en 3 images** : le lot de perles d'origine, les perles triées, la pièce portée ;
