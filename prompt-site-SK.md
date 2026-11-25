@@ -223,9 +223,34 @@ Adaptée aux pièces uniques, plus courte que celle de Satinée :
 ### La page « Ateliers » (validée)
 Elle reprend la section de l'accueil en détail : déroulé, ce qui est fourni, toutes les dates, les avis, et un formulaire pour les ateliers privés.
 
+### Le menu et le pied de page (validés)
+
+**En-tête sur mobile** : ☰ menu · logo au centre · recherche · panier. La recherche permet de retrouver tout de suite une pièce vue sur TikTok (« Sirène », « Dragon »…). Pas d'icône de compte client.
+**En-tête sur ordinateur** : Boutique ▾ · Sur mesure · Ateliers · Les Adoptées · Notre univers ▾ ; à droite : Carte cadeau · recherche · panier.
+
+**Le menu (panneau mobile)** :
+
+1. **Boutique**, qui se déplie : Toutes les pièces · Par collection (Perles et Mirages, Bijoux Racines, Souvenirs Sonores, Histoires de Peaux, Hors-série) · Par type (colliers, boucles d'oreilles, bracelets, bracelets-bagues, ear cuffs, cheveux, bayas, téléphone)
+2. **Sur mesure**
+3. **Ateliers**
+4. **Les Adoptées**
+5. **Notre univers**, qui se déplie : Mon histoire et les coulisses · L'encyclopédie des perles
+
+En bas du panneau : une carte « Quelle créature es-tu ? · 1 minute », un bouton doré « Carte cadeau », le rappel « Ear cuff offert dès 80 € », les icônes Instagram et TikTok.
+
+**La page « Avis » actuelle est supprimée** : ses avis vont dans Les Adoptées, et l'ancienne adresse redirige vers Les Adoptées.
+
+**Le pied de page** :
+
+1. un bandeau de réassurance : Pièces uniques · Fait main en France · Paiement sécurisé · Livraison offerte dès 90 € ;
+2. l'inscription compacte au Club des Perles (cachée sur la page d'accueil, où elle figure déjà) ;
+3. quatre blocs qui se déplient sur mobile : **Boutique** (toutes les pièces, collections, carte cadeau, sur mesure) · **La marque** (Mon histoire, Les Adoptées, Ateliers, encyclopédie des perles) · **Aide** (FAQ, livraison et retours, taille et ajustement, entretien, contact) · **Infos légales** (CGV, mentions légales, confidentialité, politique de retour) ;
+4. en bas : logo, « Ce qui manquait à ton style. », icônes Instagram et TikTok, moyens de paiement, © 2026 Sublime KyupiiK.
+
+Les pages d'aide « Taille et ajustement » et « Entretien » sont à rédiger si leurs informations n'existent pas encore.
+
 ## 13. Ce qu'il reste à définir
 
-- le menu et le pied de page (donc l'arborescence complète) ;
 - la boutique et les pages collection ;
 - le panier (la barre de progression est déjà décidée) ;
 - la page Personnalisation (sur mesure) ;
@@ -245,7 +270,7 @@ Elle reprend la section de l'accueil en détail : déroulé, ce qui est fourni, 
 
 Avant de créer quoi que ce soit, pose-moi les questions qui te manquent. Ensuite :
 
-1. Propose le menu, le pied de page et l'arborescence complète du site, en intégrant les pages déjà définies ici.
+1. Vérifie l'arborescence complète du site (menu et pied de page en section 12), en intégrant les pages déjà définies ici.
 2. Pour chaque page encore à définir (section 13), donne sa structure : sections, ordre, rôle de chaque section et appels à l'action.
 3. Pour chaque page, explique en une phrase comment elle aide à convertir.
 4. Une fois que j'ai validé, construis le tout sur une copie du thème, en commençant par la page d'accueil telle qu'elle est décrite en section 9.
