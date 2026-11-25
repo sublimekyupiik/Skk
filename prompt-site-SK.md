@@ -175,7 +175,7 @@ Page dédiée, liée depuis les parures, la section « Tu te reconnais ? », la 
 
 1. **Enfant, ce qui t'émerveillait, c'était…** la mer (Sirène) · la forêt (Elfe, Fée) · le ciel (Ange, Dragon) · la nuit (Vampire, Sorcière) · les étoiles (Alien, Licorne)
 2. **On t'a souvent dit…** « Tu ressens trop les choses » (Sirène, Ange) · « Tu as la tête dans les nuages » (Licorne, Fée) · « Tu prends trop de place » (Dragon, Vampire) · « Tu n'es pas comme les autres » (Alien, Elfe) · « Tu n'en fais qu'à ta tête » (Sorcière)
-3. **La couleur qui te ressemble** (pastilles de couleur, compte double) : jaune (Fée) · rouge bordeaux (Vampire) · noir (Sorcière) · vert (Elfe) · bleu (Sirène) · multicolore (Licorne) · blanc nacré (Ange) · ambre (Dragon) · lilas irisé (Alien) **[À CONFIRMER : les 3 dernières couleurs]**
+3. **La couleur qui te ressemble** (pastilles de couleur, compte double) : jaune (Fée) · rouge bordeaux (Vampire) · noir (Sorcière) · vert (Elfe) · bleu (Sirène) · multicolore (Licorne) · blanc (Ange) · marron (Dragon) · argenté (Alien)
 4. **Le pouvoir que tu aurais voulu avoir** : voler (Fée, Ange, Dragon) · respirer sous l'eau (Sirène) · parler à la nature (Elfe) · jeter des sorts (Sorcière) · ne jamais vieillir (Vampire) · voyager vers d'autres mondes (Alien) · exaucer des vœux (Licorne)
 
 En cas d'égalité, la couleur l'emporte.
